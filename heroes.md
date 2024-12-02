@@ -6,4 +6,5 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Wolverine
 
